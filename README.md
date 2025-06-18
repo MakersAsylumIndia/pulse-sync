@@ -1,3 +1,4 @@
+# Pulse Sync
 # 📘 Welcome to the IS Project Documentation Template!
 
 Hey there! 👋
@@ -11,8 +12,11 @@ You’ll be using the **GitHub Wiki** to update all your project details in a st
 
 Start by writing a **brief introduction** to your project right here in this `README.md` file:
 
-🔹 What problem are you solving?  
+🔹 What problem are you solving? 
+    The major problem targeted to people in stress inducing environments (that are prone to heart attacks) is that there are a lot of heart related issues that can be left unchecked. While there are products that measure the user's heart rate, they are generally unaware if that heart rate is health or not, and whether it needs to be checked or not. 
+
 🔹 What’s your proposed solution?
+    Our solution is a product that the user can wear on their wrist. It detects the user's heart rate and changes color based on whether the heart rate is healthy or not. If the heart rate is unhealthy for an extended period of time, the user is alerted through vibrations.
 
 Just 2–3 lines are enough. This helps others quickly understand what your project is about.
 
@@ -35,35 +39,7 @@ Each section is ready with headings like:
 - Media Gallery
 - License
 
-Please **do not delete the headings** — just replace the placeholder content under each.
 
----
-
-## 📚 How to Edit the GitHub Wiki Pages
-
-Follow these official GitHub help guides to learn how to edit your Wiki pages:
-
-🔗 [How to Add or Edit Wiki Pages](https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages)  
-🔗 [How to Format and Save Content in Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content)
-
----
-
-## 📸 Visual Guide (Optional)
-
-If you’re unsure where the Wiki tab is:  
-📍 It’s on the top-right area of the repository (next to Code, Issues, Pull Requests).
-
-You’ll find your project listed there. Click on it, then click **“Edit”** to begin updating.
-
----
-
-## 🤝 Need Help?
-
-If you're confused at any step:
-- Ask your mentor or coordinator
-- Or drop a message in our Discord/WhatsApp support group
-
-Let’s build something awesome! 🚀
 
 ## License
 
@@ -84,6 +60,7 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 
 ## 📬 Contact/Team
 
-> _List team members and contact emails or GitHub profiles._
+Aanya Patel 
+Raajdeep Kaur 
 
 ---
