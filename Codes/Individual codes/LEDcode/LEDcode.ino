@@ -1,6 +1,6 @@
 #include <Adafruit_NeoPixel.h>
  
-#define PIN 13
+#define PIN 6
  
 // Parameter 1 = number of pixels in strip
 // Parameter 2 = pin number (most are valid)
@@ -19,9 +19,9 @@ void setup() {
  
 void loop() {
   // Some example procedures showing how to display to the pixels:
-  colorWipe(strip.Color(255, 0, 0), 50); // Red
-  colorWipe(strip.Color(0, 255, 0), 50); // Green
-  colorWipe(strip.Color(0, 0, 255), 50); // Blue
+  colorWipe(strip.Color(250, 0, 0), 50); // Red
+  colorWipe(strip.Color(0, 250, 0), 50); // Green
+  colorWipe(strip.Color(0, 0, 250), 50); // Blue
   rainbow(8);
   rainbowCycle(8);
 }

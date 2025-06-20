@@ -78,8 +78,9 @@ void setup() {
   particleSensor.setPulseAmplitudeGreen(0);
 
   display.clearDisplay();
-  display.setCursor(0, 0);
-  display.println("Place finger");
+  display.setTextSize(1.5);
+  display.setCursor(5, 25);
+  display.println("Wear wrist band");
   display.display();
 
   bpmAvgStart = millis();

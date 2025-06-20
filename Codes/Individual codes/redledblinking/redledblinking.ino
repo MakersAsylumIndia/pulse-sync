@@ -1,4 +1,4 @@
-int led_pin = 12;
+int led_pin = 10;
 int led_brightness = 0;
 bool increasing = true;
 
